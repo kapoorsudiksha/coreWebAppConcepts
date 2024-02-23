@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreWebApp", "coreWebApp\co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreConfigurationLibrary", "coreConfigurationLibrary\coreConfigurationLibrary.csproj", "{7F1BDC7B-6458-42CF-AFCD-E979A3889068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreSyncAndAsyncActionsApp", "coreSyncAndAsyncActionsApp\coreSyncAndAsyncActionsApp.csproj", "{4D1300D2-7198-4DC2-8C37-56F9A7750CA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7F1BDC7B-6458-42CF-AFCD-E979A3889068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F1BDC7B-6458-42CF-AFCD-E979A3889068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F1BDC7B-6458-42CF-AFCD-E979A3889068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1300D2-7198-4DC2-8C37-56F9A7750CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1300D2-7198-4DC2-8C37-56F9A7750CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1300D2-7198-4DC2-8C37-56F9A7750CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1300D2-7198-4DC2-8C37-56F9A7750CA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
